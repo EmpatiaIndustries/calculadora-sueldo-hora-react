@@ -1,0 +1,14 @@
+.App {
+  display: grid;
+  grid-template-rows: 3; 
+  row-gap: 1em;  
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+
+
+
+
+
+
